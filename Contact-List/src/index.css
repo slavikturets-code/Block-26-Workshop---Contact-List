@@ -66,3 +66,22 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+th,
+td {
+  border: 1px solid #4211c7;
+  background-color: yellow; 
+  text-align: left;
+  font-weight:bold; 
+  padding: 8px;
+}
+
+button {
+  background-color: #67e9d3;
+  color: rgb(204, 10, 172);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 1px solid;
+  cursor: pointer;
+  width: 100%;
+}
